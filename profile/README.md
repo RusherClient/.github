@@ -1,13 +1,11 @@
-## Rusher Engine is shutting down 🛑
+## Introducing Rusher Combat: A Revolutionary Minecraft Enhancement!
 
-Dear Rusher Tweaks/Engine users,
+If you're looking for a way to elevate your Minecraft gameplay, then Rusher Combat is the perfect solution for you! This brand new client offers a wide range of features, including popular mods such as Keystrokes, ToggleSprint, and FPS Counter, that will take your gaming experience to the next level.
 
-It is with great regret that we announce the discontinuation of Rusher Engine/Tweaks due to a cease and desist letter from Moonsworth, We acknowledge the concerns raised by Moonsworth regarding the use of their intellectual property and guarantee that we will discontinue its use immediately.
+Unlike other clients, Rusher Combat is designed to run externally out of Minecraft, meaning you can launch and close it whenever you want without any issues.
 
-We would like to clarify that Rusher Engine was solely developed for the benefit of the Minecraft community. We apologize for any inconvenience or disappointment caused by this decision to cease operations.
+While Rusher Combat doesn't offer any FPS boosts, it's still an excellent choice for players looking to enhance their Minecraft experience.
 
-We appreciate the support of our users and the Minecraft community at large. We hope that you understand our position and respect our decision to comply with Moonsworth's request.
+We will be releasing the beta and will be leaving updates on this project there. 
 
-However, We will be returning with something else. So stay tuned for that.
-
-The Rusher Tweaks Team
+https://discord.gg/HwRJaZYYd7
