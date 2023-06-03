@@ -6,6 +6,6 @@ Unlike other clients, Rusher Combat is designed to run externally out of Minecra
 
 While Rusher Combat doesn't offer any FPS boosts, it's still an excellent choice for players looking to enhance their Minecraft experience.
 
-We will be releasing the beta and will be leaving updates on this project there. 
+We will be releasing the beta and will be leaving updates on this project there: 
 
 https://discord.gg/HwRJaZYYd7
